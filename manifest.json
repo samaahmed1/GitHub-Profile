@@ -5,9 +5,9 @@
   "background_color": "#fd6a02",
   "display": "standalone",
   "orientation": "Any",
-  "scope": "/",
+  "scope": "https://samaahmed1.github.io/GitHub-Profile/",
   "start_url": "https://samaahmed1.github.io/GitHub-Profile/",
-  "id": "/GitHub-Profile/",
+  "id": "https://samaahmed1.github.io/GitHub-Profile/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
